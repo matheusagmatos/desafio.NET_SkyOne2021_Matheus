@@ -1,4 +1,11 @@
 # desafio.NET_SkyOne2023_Matheus
 Projeto criado para o programa de estágio Sky.One 2023
 
-![image (1)](https://github.com/matheusagmatos/desafio.NET_SkyOne2023_Matheus/assets/69373402/547a9762-7f46-4fed-ace2-8549c359049d)
+![download](https://github.com/matheusagmatos/desafio.NET_SkyOne2023_Matheus/assets/69373402/1209bf5d-0dc7-43b6-b5c0-93776ffd3aa1)
+
+Testes realizados:
+
+TESTE 01
+TESTE 02
+
+OBS: os códigos de cada teste estão dentro do arquivo Testes.cs
